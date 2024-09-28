@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['/Users/qwq/Documents/聊天区/chatroom_get.py'],
+    ['/Users/qwq/Documents/GitHub/sctools_chatroom/chatroom_get.py'],
     pathex=[],
     binaries=[],
     datas=[],
